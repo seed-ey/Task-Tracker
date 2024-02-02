@@ -1,0 +1,162 @@
+{
+  "tasks": [
+    {
+      "item": "tester",
+      "description": "cfff",
+      "dueDate": "0034-02-23",
+      "id": "1"
+    },
+    {
+      "item": "edit",
+      "description": "hfuff",
+      "dueDate": "0044-02-23",
+      "id": "cb8b"
+    },
+    {
+      "item": "I just want you to work now",
+      "description": "Tgijdfhvhdfv",
+      "dueDate": "0023-12-22",
+      "id": "3b39"
+    },
+    {
+      "item": "real name please",
+      "description": "jcjkdvdvjkdf",
+      "dueDate": "0033-02-23",
+      "id": "900b"
+    },
+    {
+      "item": "createanother one",
+      "description": "one",
+      "dueDate": "0444-12-31",
+      "id": "f37c"
+    },
+    {
+      "id": "f854",
+      "item": "killll",
+      "description": "an ant",
+      "dueDate": "1234-12-31",
+      "done": false,
+      "userId": "c962"
+    },
+    {
+      "id": "7825",
+      "item": "Don't",
+      "description": "kill an ant",
+      "dueDate": "0455-03-04",
+      "done": false,
+      "userId": "c962"
+    },
+    {
+      "id": "b252",
+      "item": "fish",
+      "description": "pie",
+      "dueDate": "0443-05-06",
+      "done": false,
+      "userId": "c962"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "user1",
+      "password": "password1",
+      "todos": []
+    },
+    {
+      "id": "2",
+      "username": "user2",
+      "password": "password2",
+      "todos": []
+    },
+    {
+      "id": "80a5",
+      "fullname": "Chukwuemeka Godseed",
+      "email": "godseedchukwuemeka@gmail.com",
+      "password": "12345",
+      "mobile": 7066431203,
+      "todos": []
+    },
+    {
+      "id": "1cb7",
+      "fullname": "princess morris",
+      "email": "emilexyz@gmail.com",
+      "password": "12345",
+      "mobile": 10001,
+      "todos": []
+    },
+    {
+      "id": "39df",
+      "fullname": "ggggg",
+      "email": "please@gmail.com",
+      "password": "12345",
+      "mobile": 3333333,
+      "todos": []
+    },
+    {
+      "id": "efd2",
+      "fullname": "uchechukwu samuel ottah",
+      "email": "uche@gmail.com",
+      "password": "12345",
+      "mobile": 90989099988,
+      "todos": []
+    },
+    {
+      "id": "46a7",
+      "fullname": "Godseed Chukwuemeka",
+      "email": "prof@gmail.com",
+      "password": "12345",
+      "mobile": 88888888888,
+      "todos": []
+    },
+    {
+      "id": "9655",
+      "fullname": "test",
+      "email": "test@gmail.com",
+      "password": "12345",
+      "mobile": 99999999,
+      "todos": []
+    },
+    {
+      "id": "c962",
+      "fullname": "Glory Ogbodo",
+      "email": "glory@gmail.com",
+      "password": "12345",
+      "mobile": 11111111
+    },
+    {
+      "id": "f1ec",
+      "fullname": "bob",
+      "email": "bob@gmail.com",
+      "password": "12345",
+      "mobile": 22222222
+    },
+    {
+      "id": "03ea",
+      "fullname": "tired",
+      "email": "tired@gmail.com",
+      "password": "",
+      "mobile": 66666
+    },
+    {
+      "id": "dc43",
+      "fullname": "nawa",
+      "email": "nawa@gmail.com",
+      "password": "12345",
+      "mobile": 44444444
+    },
+    {
+      "id": "f28c",
+      "fullname": "Dami",
+      "email": "dami@gmail.com",
+      "password": "12345",
+      "mobile": 333333333
+    },
+    {
+      "id": "1f74",
+      "fullname": "seeed",
+      "email": "seed@gmail.com",
+      "password": "12345",
+      "mobile": 5555
+    }
+  ]
+}
